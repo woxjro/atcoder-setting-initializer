@@ -15,9 +15,6 @@ const int MOD = 1e9 + 7;
 
 void solve()
 {
-    std::ifstream in("sample.txt");
-    std::cin.rdbuf(in.rdbuf());
-
     cin.tie(0);
     ios::sync_with_stdio(false);
 }
